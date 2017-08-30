@@ -7,7 +7,15 @@ face_generation/data/
 
 .ipynb_checkpoints/
 
+notMNIST*
+mnist*
+*cifar-10*
+*.data*
+.vscode/tags
 
+*.index
+*.meta
+checkpoint
 *.pyc
 *.p
 *.pkl 
